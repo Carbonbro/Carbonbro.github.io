@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "關於我"
-date: 2026-05-30 10:05:00 +0800
+date: 2026-05-31 00:44:00 +0800
 categories: [介紹]
 tags: [關於我]
 ---
 
 ## 我是誰
-我是方文政，你也可以稱我為小炭哥，目前就讀於台北科大資訊工程系（NTUT CSIE）。如果想跟我聯繫可以使用主頁上的聯絡資訊。
+我是方文政，你也可以稱我為小炭哥，目前就讀於台北科大資訊工程系（NTUT CSIE）。如果想跟我聯繫可以使用下方或是主頁的聯絡資訊。
 
 ## 為什麼開始寫部落格
 
@@ -18,3 +18,11 @@ tags: [關於我]
 - 程式學習筆記
 - 生活紀錄
 - 對於一些概念的想法
+
+### 聯絡資訊
+- [Github](https://github.com/Carbonbro)
+- [Instagram](https://www.instagram.com/cbro_1217/)
+- [Facebook](https://www.facebook.com/fang.wen.zheng.427696)
+- [x(twitter)](https://x.com/Wayne95886857)
+- discord ID\
+ `iamcbro`
