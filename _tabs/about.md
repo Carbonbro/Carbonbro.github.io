@@ -19,6 +19,10 @@ tags: [關於我]
 - 生活紀錄
 - 對於一些概念的想法
 
+> 執行後會在終端機看到 `Hello, World!`
+{: .prompt-tip }
+
+
 ### 聯絡資訊
 - [Github](https://github.com/Carbonbro)
 - [Instagram](https://www.instagram.com/cbro_1217/)
