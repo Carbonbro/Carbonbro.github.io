@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "關於我"
 date: 2026-05-30 10:05:00 +0800
 categories: [介紹]
