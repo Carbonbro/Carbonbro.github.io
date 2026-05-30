@@ -88,7 +88,7 @@ def hello():
 
 ## Chirpy專屬語法
 - ### 提示區塊（Chirpy特有）
-```md
+```
 > 這是普通提示
 {: .prompt-tip }
 
