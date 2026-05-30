@@ -87,32 +87,6 @@ def hello():
 ---
 
 ## Chirpy專屬語法
-- ### 提示區塊（Chirpy特有）
-```md
-# > 這是普通提示
-# {: .prompt-tip }
-
-# > 這是資訊提示
-# {: .prompt-info }
-
-# > 這是警告提示
-# {: .prompt-warning }
-
-# > 這是危險提示
-# {: .prompt-danger }
-```
-- 應有的顯示為（把#去掉）
-> 這是普通提示
-{: .prompt-tip }
-
-> 這是資訊提示
-{: .prompt-info }
-
-> 這是警告提示
-{: .prompt-warning }
-
-> 這是危險提示
-{: .prompt-danger }
 
 - ### 圖片對齊與大小
 ```md
