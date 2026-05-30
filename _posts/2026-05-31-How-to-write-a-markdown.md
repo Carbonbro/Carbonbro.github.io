@@ -5,6 +5,7 @@ title: "Markdown寫法教學"
 date: 2026-05-31 01:07:00 +0800
 categories: [程式]
 tags: [程式碼][Markdown]
+description: Markdown 是一種輕量化的標記式語言，讓你專注於內容而非排版。
 #image: 
 #    path: /assets/img/avatar.jpg
 #    alt: 關於我的封面
